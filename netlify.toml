@@ -2,9 +2,3 @@
 
   # This is where our functions are located
   functions = "functions"
-
-[[redirects]]
-
-  from = "/api/"
-  to = "/.netlify/functions/"
-  status = 200
