@@ -4,7 +4,7 @@
 https://sleepy-bartik-2a3bd4.netlify.app/
 
 ### Endpoints
-/api. 
+/api  
 /other-api
 
 ### Data Requests
